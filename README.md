@@ -10,4 +10,4 @@ Olá! Sou um desenvolvedor apaixonado por tecnologia com uma ampla gama de habil
 Sou formado em Ciência da Computação pelo Centro Universitário Senac Santo Amaro e atualmente atuo como docente no Senac Osasco. Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos e aprender ainda mais.
 
 Vamos nos conectar e compartilhar conhecimentos!
-(Instagram)["https://www.instagram.com/higor.2100"]
+[Instagram]("https://www.instagram.com/higor.2100")
